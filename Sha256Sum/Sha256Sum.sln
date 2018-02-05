@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTH.Sha256Sum", "BTH.Sha256Sum.csproj", "{16BC9AA2-9C30-48B1-9E66-E4C1A54273B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTH.Sha256Sum.Test", "..\Sha256Sum.Test\BTH.Sha256Sum.Test.csproj", "{8D3C0B98-9E1A-4CA5-8DB0-C392CEA4E81C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16BC9AA2-9C30-48B1-9E66-E4C1A54273B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16BC9AA2-9C30-48B1-9E66-E4C1A54273B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16BC9AA2-9C30-48B1-9E66-E4C1A54273B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16BC9AA2-9C30-48B1-9E66-E4C1A54273B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D3C0B98-9E1A-4CA5-8DB0-C392CEA4E81C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D3C0B98-9E1A-4CA5-8DB0-C392CEA4E81C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D3C0B98-9E1A-4CA5-8DB0-C392CEA4E81C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D3C0B98-9E1A-4CA5-8DB0-C392CEA4E81C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FAF7C466-DA8F-4485-AF93-184D6BB14AEF}
+	EndGlobalSection
+EndGlobal
